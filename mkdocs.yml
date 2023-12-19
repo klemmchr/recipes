@@ -1,0 +1,41 @@
+site_name: Vegane Rezepte
+
+plugins:
+  - search:
+      lang: de
+  - blog:
+      blog_dir: .
+      post_url_date_format: dd/MM/yyyy
+      post_excerpt: required
+      archive: false
+      authors: false
+  - include_dir_to_nav:
+      sort_file: true
+      sort_directory: true
+
+theme:
+  name: material
+  language: de
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      toggle:
+        icon: material/brightness-7
+        name: Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+    
