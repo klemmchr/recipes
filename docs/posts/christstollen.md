@@ -12,7 +12,8 @@ tags:
 
 # Christstollen
 
-Ein einfacher veganer Christstollen.
+Ein einfacher veganer Christstollen. Die Vorbereitung benötigt mindestens einen Tag.  
+Während der Zubereitung sind mehrere Ruhephasen für den Teig vorgesehen. Diese können über zwei Tage verteilt werden.
 
 <!-- more -->
 
@@ -27,13 +28,13 @@ Ein einfacher veganer Christstollen.
 - 50 ml Orangensaft
 
 #### Stollen
-- 500 g Weizenmehl
-- 150 g Butter
-- 100 g gemahlene Mandeln
-- 100 g Zucker
+- 425 g Weizenmehl
+- 130 g Butter
+- 85 g gemahlene Mandeln
+- 85 g Zucker
 - 100 g Marzipan Rohmasse
-- 100 ml Pflanzenmilch
-- 50 g Apfelmus
+- 85 ml Pflanzenmilch
+- 45 g Apfelmus
 - 10 g Christstollengewürz
 - 1 Würfel (42g) Hefe
 
@@ -65,19 +66,19 @@ Der Teig sollte mindestens zehn Minuten lang geknetet werden und leicht klebrig 
 10. Marzipan mit einer Reibe in kleine Raspeln reiben.
 11. Vorteig, gemahlene Mandeln, Zucker, Butter-Gewürz-Mischung und Marzipan miteinander vermengen.
 12. Teig für mindestens fünf Minuten gut durchkneten und zu einer Kugel formen.
-13. Erneut abgedeckt für mindestens eine Stunde gehen lassen.
+13. Erneut abgedeckt für mindestens eine Stunde gehen lassen. Alternativ über Nacht im Kühlschrank gehen lassen.
 14. Währenddessen Einlage gut in einem Sieb abtropfen lassen.
 15. Einlage in den Teig falten. Dazu die Teigkugel mit den Fingern flach drücken und die Hälfte der Einlage draufgeben.
 Längst falten und die andere Hälfte der Einlage hinzugeben. Nun mehrfach flachdrücken und falten, bis die Einlage gleichmäßig verteilt ist.
 16. Backform einfetten und bemehlen. Teig zu einer Rolle rollen und in die Form geben.
 Darauf achten, dass dieser gut angedrückt und die Form vollständig gefüllt ist.
-17. Form flach auf ein Backblech legen und für rund 30 Minuten gehen lassen.
+17. Form flach auf ein Backblech legen und für rund 30 Minuten gehen lassen. Sollte der Teig aus dem Kühlschrank kommen, muss die Gehzeit um 15 Minuten verlängert werden.
 18. Währenddessen Backofen auf 220 °C Ober-Unterhitze vorheizen.
 19. Stollen einschießen und die Temperatur sofort auf 160 °C reduzieren.
 20. Nach 30 Minuten Backzeit die Form entfernen. Erneut für 20 Minuten backen lassen.
 
 #### Überzug
-21. Stollen etwas abkühlen lassen.
-22. Butter schmelzen und den Stollen von allen Seiten gut mit Fett einpinseln (auch die Unterseite).
+21. Stollen etwas abkühlen lassen, währenddessen Butter schmelzen.
+22. Den Stollen von allen Seiten gut mit Fett einpinseln (auch die Unterseite).
 23. Stollen mit Zucker bedecken, kurz warten und dann mit Puderzucker bedecken.
 24. Luftdicht verschließen und einige Tage reifen lassen, bevor der Anschnitt erfolgt.
