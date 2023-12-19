@@ -5,7 +5,7 @@ plugins:
       lang: de
   - blog:
       blog_dir: .
-      post_url_date_format: dd/MM/yyyy
+      post_url_format: "{slug}"
       post_excerpt: required
       archive: false
       authors: false
