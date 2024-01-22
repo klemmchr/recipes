@@ -31,8 +31,8 @@ tags:
 
 #### Béchamel Sauce
 
-- 65 g Mehl
-- 70 g Butter
+- 75 g Mehl
+- 75 g Butter
 - 600 ml Hafermilch
 - 10 g Hefeflocken
 - Muskatnuss
